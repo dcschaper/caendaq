@@ -1,0 +1,1 @@
+This directory contains bash scripts for CAEN V1274 DAQ system.
